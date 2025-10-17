@@ -1,10 +1,12 @@
-<!-- Header Section -->
-<div align="center">
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
 
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%; margin-right:10px;" align="left"/>
+  <!-- Tên -->
+  <h1 style="color:#00BFFF; font-weight:700;">Nguyễn Hải Hoàng</h1>
 
-<h1 style="color:#00BFFF;">Nguyễn Hải Hoàng</h1>
-
-<h3>💻 Sinh viên IT | 🚀 Web Developer | 🧠 Đang phát triển dự án Pet-Care AI Chatbot</h3>
+  <!-- Hình bên phải -->
+  <img src="https://github.com/username/repo-name/blob/main/avatar.png?raw=true" 
+       alt="Nguyen Hai Hoang" 
+       width="120" 
+       style="border-radius: 50%; margin-left: 20px;" />
 
 </div>
