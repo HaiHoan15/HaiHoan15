@@ -8,7 +8,7 @@
     </td>
 
     <!-- Ảnh -->
-    <td>
+   <td>
       <img src="https://github.com/HaiHoan15/HaiHoan15/blob/main/pic/avatar.jpg?raw=true"
            alt="Nguyen Hai Hoang"
            width="150"
